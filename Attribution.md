@@ -27,6 +27,6 @@ Modified for use in this mod.
 ## All other assets are from Nuclear Option, owned by **Shockfront Studio**
 
 ## AI usage disclaimer
-Some C# code in this project are AI-assisted/Generated with OpenAI's GPT Astra 6 and is reviewed by me.
+Some C# code in this project are AI-assisted/Generated with GPT-6 Astra and is reviewed by me.
 
 booooo
