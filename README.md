@@ -20,6 +20,10 @@ Comes with ground launcher.
 5-tonne unguided bomb designed to deliver overwhelming destructive force against hardened structures and over a wide area. Its massive payload makes it particularly effective against buildings, infrastructures, and group of vehicles.
 <img width="865" height="466" alt="image" src="https://github.com/user-attachments/assets/6574b1b0-110c-4cdd-b09a-99625d2c0d02" />
 
+## LM-12
+An autonomous kamikaze drone armed with a single RPG-class warhead.
+<img width="942" height="577" alt="image" src="https://github.com/user-attachments/assets/2542d299-eef2-438c-bdbc-16b244cf8a21" />
+
 ## Piledriver Comet
 A specialized Piledriver TBM variant designed for quasi-ballistic hypersonic flight. The Comet climbs into the upper atmosphere before transitioning into a high-speed glide. Upon committing to its final dive, a dedicated terminal booster ignites, driving the missile beyond Mach 6 before impact.
 
@@ -35,13 +39,13 @@ Comes with ground launcher.
 High-altitude strategic interceptor missile tipped with a 1.5kt nuclear warhead. This missile utilizes both SARH tracking system and its own powerful ARH seeker. Best launched against high value threats such as the Piledriver TBM, Piledriver Comet, and the HSM-750 Starfall. The warhead only arms above 1000m; Under that altitude, the missile will have no warhead.
 
 Comes with ground launcher.
-<img width="651" height="296" alt="image" src="https://github.com/user-attachments/assets/c4ec392d-afc6-4516-ac57-a15b20609e54" />
+<img width="608" height="266" alt="image" src="https://github.com/user-attachments/assets/7e081f8a-6e6c-4ed1-8dde-b50743a4fceb" />
 
 ## R-54SL
 Cold ship-launched derivative of the R-54N Aegis, designed for high-altitude fleet defense and ballistic missile interception. Unlike its nuclear-armed sibling, the R-54SL relies on kinetic hit-to-kill interception.
 
 50% chance to replace the NL-98 on Argus Class Frigate (less ammo).
-<img width="811" height="376" alt="image" src="https://github.com/user-attachments/assets/30a0fff6-9ebc-4445-ba20-676ed024de21" />
+<img width="634" height="326" alt="image" src="https://github.com/user-attachments/assets/9668decf-d983-4dda-9803-071c7b89f852" />
 
 ## GLND-5
 The GLND-5 is the ground-launched derivative of the ALND-4, adapted for mobile ground platforms. It has a detachable solid-fuel booster that provides the initial acceleration required for ground launch, and its optimized propulsion system allows it to maintain high-transonic speed over long distances.
