@@ -18,11 +18,7 @@ The model is made by **DenisGLabrecque** on SketchFab under CC Attribution licen
 Model modifications and textures are done by me, [KyleisRed](https://github.com/KyleisRed)
 
 # LM-12 is not made by me
-The model is done by **Kvasovich** on SketchFab under CC Attribution license.
-
-"FPV kamikaze drone Low-poly" (https://skfb.ly/pAZNN) by Kvasovich is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-Modified for use in this mod.
+Donated by the kind, humble, and generous GrypusOne / ohio1287
 
 ## All other assets are from Nuclear Option, owned by **Shockfront Studio**
 
